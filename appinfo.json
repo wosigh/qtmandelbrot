@@ -1,6 +1,6 @@
 {
 	"title":    "Qt Mandelbrot",
-	"type":     "web",
+	"type":     "game",
 	"main":     "start.sh",
 	"id":       "net.griffin.qtmandelbrot",
 	"vendor":   "griffin.net",
