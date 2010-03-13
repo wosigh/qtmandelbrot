@@ -1,0 +1,9 @@
+{
+	"title":    "Qt Mandelbrot",
+	"type":     "web",
+	"main":     "start.sh",
+	"id":       "net.griffin.qtmandelbrot",
+	"vendor":   "griffin.net",
+        "version":  "4.6.2",
+        "icon":     "icon.png"
+}
